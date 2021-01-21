@@ -1,0 +1,11 @@
+ID,NAME,STREET,CITY,STATE,ZIP,MAIN_PHONE,MAIN_FAX,TYPE,LATITUDE,LONGITUDE,Beds
+1,Earl K Long Medical Center,5825 Airline Hwy,Baton Rouge,LA,70805,(225) 358-1002,(225) 358-1003,Acute,30.5033,-91.1319,76
+2,LSUHSC - Bogalusa Medical Center,433 Plaza Street,Bogalusa,LA,70427,(985) 730-6700,(985) 730-6709,Acute,30.7783,-89.8684,37
+3,L.J. Chabert Medical Center,1978 Industrial Blvd,Houma,LA,70363,(985) 873-2200,(985) 873-1262,Acute,29.5724,-90.6963,61
+4,Lallie Kemp Regional Medical Center,52579 Highway 51 South,Independence,LA,70443,(985) 878-9421,(985) 878-1308,Acute/Critical Access,30.6201,-90.4964,18
+5,University Medical Center,2390 West Congress St,Lafayette,LA,70506,(337) 261-6000,(337) 261-6003,Acute,30.2152,-92.0466,65
+6,W.O. Moss Regional Medical Center,1000 Walters St,Lake Charles,LA,70607,(337) 475-8100,(337) 475-8104,Acute / Limited Services,30.1835,-93.2065,17
+7,E.A. Conway Medical Center,4864 Jackson Street,Monroe,LA,71202,(318) 330-7000,(318) 330-7591,Acute,32.4493,-92.1053,103
+8,Interim LSU Public Hospital,2021 Perdido St,New Orleans,LA,70112,(504) 903-3000,(504) 903-7584,Acute / Critical Access,29.9562,-90.0850,186
+9,LSUHSC - Huey P. Long Regional Medical Center,352 Hospital Boulevard,Pineville,LA,71360,(318) 448-0811,(318) 473-6360,Acute / Critical Access,31.3207,-92.4404,44
+10,LSUHSC - Shreveport,1501 Kings Highway,Shreveport,LA,71130,(318) 675-5058,(318) 675-5666,Acute,32.4806,-93.7607,386
