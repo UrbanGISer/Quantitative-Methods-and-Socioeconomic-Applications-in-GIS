@@ -9,7 +9,7 @@ Data & GIS Toolbox
 Note:   
 Due to the large size of some geodatabase files, the files were divided into sub-packages less than 25m using software **WINRAR**. Please use the decompression tool to unzip and combine the .rar files in the **CURRENT FOLDER**。    
 The **Toolbox** directory in the folder is a **backup** collection of extensions or toolboxes based on Python or R in all case studies folders, which can be used for cooperative development and update.   Please **DO NOT** change the toolboxes or scripts in other folders.  
-![CRC Press](/"C:\Users\Piant\Desktop\fahuibook.jpg")
+![CRC Press](https://github.com/piantu/Quantitative-Methods-and-Socioeconomic-Applications-in-GIS/blob/main/CRC%20Press.jpg)
 
   
 《GIS 和数量方法在社会经济研究中的应用》（第二版）  
