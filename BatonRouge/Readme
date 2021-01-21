@@ -1,1 +1,3 @@
-This is the database of Baton Rouge
+This is the database of Baton Rougs
+As the maximum data size is 25M, so we make the geodatabse file into .rar file
+before using it，unzip the .rar file
